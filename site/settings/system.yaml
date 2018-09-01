@@ -1,0 +1,12 @@
+app_key: gO34YCeH0XJe1P2hMvioxemwaOO50coV
+yaml_parser: symfony
+locales:
+  en:
+    full: en_US
+    name: English
+    url: 'http://localhost:3000/'
+  he:
+    full: he_IL
+    name: Hebrew
+    url: 'http://localhost:3000/he'
+timezone: UTC

@@ -1,0 +1,7 @@
+sections:
+  main:
+    display: Main
+    fields: {  }
+taxonomies: true
+title: Home
+create_title: Home
