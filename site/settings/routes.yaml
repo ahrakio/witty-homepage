@@ -1,6 +1,5 @@
 collections: {  }
-taxonomies:
-  tags: '/blog/tags/{slug}'
+taxonomies: {  }
 routes:
   /blog/tags: blog/taxonomies
   /search: search
